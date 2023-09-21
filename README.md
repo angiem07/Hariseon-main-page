@@ -6,7 +6,7 @@ This site was created in request of Hariseon, a marketing company. They required
 
 ## Usage
 To open the site, click the link.
-
+https://angiem07.github.io/Hariseon-main-page/
 
 
 ## Credit
